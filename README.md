@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026, CGPA: 7.42)*
-- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time + 6 month AIML Intern)*
+- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time currently with 6 month AIML Intern)*
 - 🔬 Building real AI systems: CNN-based image scoring, RAG pipelines, semantic search, LLM integrations
 - 📍 Vasai, Maharashtra
 
