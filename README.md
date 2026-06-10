@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026, CGPA: 7.42)*
-- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time, converted from AIML Intern)*
+- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time + 6 month AIML Intern)*
 - 🔬 Building real AI systems: CNN-based image scoring, RAG pipelines, semantic search, LLM integrations
 - 📍 Vasai, Maharashtra
 
@@ -36,7 +36,7 @@
 ## 💼 Experience
 
 ### AI Engineer — Blackhole Infiverse *(Full-time · Mumbai)*
-> Converted from AIML Intern · Sep 2025 – Present
+> AIML Intern · Sep 2025 - Mar 2026 , AI Engineer · May 2026Present
 
 - Building and scaling **HR Infiverse** — an AI-driven human resource management platform
 - Implementing ML models for **candidate screening**, **employee engagement analysis**, and **predictive workforce analytics**
