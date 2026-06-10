@@ -168,7 +168,7 @@
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"*"Think it. Prompt it. Build it. Break it. Fix it. Ship it."*"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=shashankmishraa&color=534AB7&style=flat)
 
