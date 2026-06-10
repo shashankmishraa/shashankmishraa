@@ -35,12 +35,17 @@
 
 ## 💼 Experience
 
-### AI Engineer — Blackhole Infiverse *(Full-time · Mumbai)*
-> AIML Intern · Sep 2025 - Mar 2026 , AI Engineer · May 2026Present
+### Blackhole Infiverse · Mumbai
 
-- Building and scaling **HR Infiverse** — an AI-driven human resource management platform
-- Implementing ML models for **candidate screening**, **employee engagement analysis**, and **predictive workforce analytics**
-- Integrating LLM-based features into production systems and collaborating across cross-functional teams
+**AIML Intern** · Sep 2025 – Mar 2026
+
+> Worked on AI/ML features for an internal HR platform. Stack: Python · TensorFlow · Scikit-learn · Pandas · NumPy · REST APIs
+
+---
+
+**AI Engineer** *(Full-time)* · May 2026 – Present
+
+> Continued building and owning AI modules on the same platform post-conversion. Stack: Python · FastAPI · TensorFlow · Scikit-learn · LangChain · Hugging Face · PostgreSQL · Docker · REST APIs
 
 ---
 
