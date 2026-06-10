@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 # Hey, I'm Shashank Mishra 👋
@@ -8,21 +7,23 @@
 🎓 *Graduated May 2026 — Universal College of Engineering, Vasai*
 
 ```
-> working on:· ARC (CNN answer evaluator) · RAG pipelines
+> working on: ARC (CNN answer evaluator) · RAG pipelines
 ```
 
 <a href="https://drive.google.com/file/d/1GcXfgP0QQyTU9D6i3xabpAC5UgVjCjcd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=adobe&logoColor=white" alt="Resume">
+  <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=googledrive&logoColor=white" alt="Resume">
 </a>
 
+<br/><br/>
+
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-534AB7?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-3B6D11?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React%20%2F%20Next.js-0F6E56?style=flat&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React%20%2F%20Next.js-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![LangChain](https://img.shields.io/badge/LangChain%20%2F%20RAG-854F0B?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-993C1D?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-712B13?style=flat&logo=opencv&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat&logo=typescript&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 </div>
 
@@ -30,10 +31,10 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026, CGPA: 7.42)*
-- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time, converted from AIML internship)*
+- 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026 · CGPA: 7.42)*
+- 💼 **AI Engineer @ Blackhole Infiverse** — Full-time, converted from AIML internship
 - 🔬 Building production-focused AI systems: CNN scoring, RAG pipelines, semantic search, LLM integrations
-- 📄 **Resume:** <a href="https://drive.google.com/file/d/1GcXfgP0QQyTU9D6i3xabpAC5UgVjCjcd/view?usp=sharing" target="_blank" rel="noopener noreferrer">View my resume</a>
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1GcXfgP0QQyTU9D6i3xabpAC5UgVjCjcd/view?usp=sharing)
 - 📍 Vasai, Maharashtra
 
 ---
@@ -42,19 +43,22 @@
 
 ### Blackhole Infiverse · Mumbai
 
+| Role | Period |
+|---|---|
+| **AIML Intern** | Sep 2025 – Mar 2026 |
+| **AI Engineer** *(Full-time)* | May 2026 – Present |
+
 **AIML Intern** · Sep 2025 – Mar 2026
 
-> Built AI/ML components for an internal HR platform while maintaining NDA-level confidentiality. Focus included model development, data pipelines, and API integration.
+> Built AI/ML components for an enterprise HR platform. Focus areas: model development, data pipelines, and API integration. *(NDA applies — details withheld)*
 
-**Tech stack:** Python · TensorFlow · Scikit-learn · Pandas · NumPy · PostgreSQL · REST APIs · Docker
-
----
+**Stack:** `Python` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `PostgreSQL` `Docker` `REST APIs`
 
 **AI Engineer** *(Full-time)* · May 2026 – Present
 
-> Transitioned to full-time AI engineering and continued ownership of core AI systems, production deployment, and pipeline automation.
+> Promoted to full-time AI Engineer. Owns core AI systems, production deployment, and ML pipeline automation. *(NDA applies — details withheld)*
 
-**Tech stack:** Python · FastAPI · TensorFlow · Scikit-learn · LangChain · Hugging Face · PostgreSQL · Docker · REST APIs
+**Stack:** `Python` `FastAPI` `TensorFlow` `Scikit-learn` `LangChain` `Hugging Face` `PostgreSQL` `Docker` `REST APIs`
 
 ---
 
@@ -63,13 +67,13 @@
 ### 🥇 ARC — Automated Answer Re-evaluation System *(Pinned · B.E. Project)*
 > CNN-based system to auto-evaluate scanned handwritten answers using OCR + Gemini AI
 
-**Stack:** FastAPI · Uvicorn · TensorFlow · Keras · OpenCV · EasyOCR · Google Gemini API · pdfplumber · SQLAlchemy · Next.js 14 · TypeScript · TailwindCSS · Recharts · Framer Motion · Docker
+**Stack:** `FastAPI` `Uvicorn` `TensorFlow` `Keras` `OpenCV` `EasyOCR` `Google Gemini API` `pdfplumber` `SQLAlchemy` `SQLite` `Next.js 14` `TypeScript` `TailwindCSS` `Recharts` `Framer Motion` `Docker` `python-dotenv`
 
 **Highlights:**
-- Trains a CNN model to score handwritten student answers against reference answers via OCR
+- CNN model trained to score handwritten student answers against reference answers via OCR
 - Gemini AI integration for semantic scoring beyond keyword matching
-- Batch evaluation mode with HTML score reports
-- Full-stack: FastAPI backend + Next.js frontend with drag-and-drop PDF upload
+- Batch evaluation mode with HTML score reports and PDF export
+- Full-stack: FastAPI backend + Next.js 14 frontend with drag-and-drop PDF upload
 
 🔗 [github.com/shashankmishraa/Automated-AnsweRevaluation-System-ARC-](https://github.com/shashankmishraa/Automated-AnsweRevaluation-System-ARC-)
 
@@ -78,7 +82,7 @@
 ### 🥈 FinVault — RAG-based Financial Document Platform *(Pinned)*
 > Production-ready financial document management with semantic search, RBAC, and full RAG pipeline
 
-**Stack:** FastAPI · Uvicorn · PostgreSQL · SQLAlchemy · Alembic · asyncpg · Qdrant · LangChain · sentence-transformers · flashrank · pypdf · python-docx · python-jose (JWT) · passlib · React · Vite · TypeScript · TailwindCSS · Docker · Nginx
+**Stack:** `FastAPI` `Uvicorn` `PostgreSQL` `SQLAlchemy` `Alembic` `asyncpg` `Qdrant` `LangChain` `sentence-transformers` `flashrank` `pypdf` `python-docx` `openpyxl` `python-jose (JWT)` `passlib` `React` `Vite` `TypeScript` `TailwindCSS` `Docker` `Nginx` `structlog` `tenacity`
 
 **Highlights:**
 - End-to-end RAG pipeline: document ingestion → BAAI/bge embeddings → Qdrant vector store → semantic retrieval → LLM Q&A
@@ -93,7 +97,7 @@
 ### 📋 Team Project Planner
 > Django REST API backend for team project and task management
 
-**Stack:** Django · Django REST Framework · Python · JSON persistence · pytest
+**Stack:** `Django` `Django REST Framework` `Python` `JSON persistence` `pytest`
 
 **Highlights:**
 - User, Team, Board, and Task management with Repository/Manager design pattern
@@ -107,7 +111,7 @@
 ### 🎬 YouTube Transcriber, Summarizer & Q&A
 > AI assistant for YouTube — transcription, summarization, and contextual Q&A
 
-**Stack:** Python · Streamlit · Google Gemini API · youtube-transcript-api · python-dotenv
+**Stack:** `Python` `Streamlit` `Google Gemini API` `youtube-transcript-api` `python-dotenv`
 
 **Highlights:**
 - Extracts YouTube transcripts automatically with timestamped accessibility
@@ -122,20 +126,22 @@
 | Category | Tools |
 |---|---|
 | **Languages** | Python, TypeScript, JavaScript, SQL |
-| **Backend** | FastAPI, Django REST Framework, SQLAlchemy, Alembic |
-| **Frontend** | React, Next.js 14, Vite, TailwindCSS, Framer Motion |
-| **AI / ML** | TensorFlow, Keras, OpenCV, EasyOCR, LangChain, sentence-transformers |
-| **Vector / RAG** | Qdrant, flashrank, BAAI/bge embeddings, Gemini API |
+| **Backend** | FastAPI, Django REST Framework, SQLAlchemy, Alembic, Uvicorn |
+| **Frontend** | React, Next.js 14, Vite, TailwindCSS, Framer Motion, Recharts |
+| **AI / ML** | TensorFlow, Keras, Scikit-learn, OpenCV, EasyOCR, Pandas, NumPy |
+| **LLM / RAG** | LangChain, Hugging Face, sentence-transformers, Gemini API, flashrank |
+| **Vector DB** | Qdrant (BAAI/bge embeddings) |
 | **Databases** | PostgreSQL, SQLite, asyncpg |
-| **DevOps** | Docker, Nginx, Uvicorn, python-dotenv |
-| **Cloud** | AWS (EC2, S3, RDS, VPC), GCP (Compute Engine, IAM, Kubernetes) |
+| **Auth / Security** | python-jose (JWT), passlib (bcrypt) |
+| **DevOps** | Docker, Nginx, python-dotenv, structlog, tenacity |
+| **Cloud** | AWS (EC2, S3, RDS, VPC), GCP (Compute Engine, IAM, Cloud Storage, Kubernetes) |
 
 ---
 
 ## 📜 Certifications
 
 - 🟦 **Google Cloud Career Launchpad** — Cloud Engineer Track *(Apr 2025)*
-- 🟨 **AWS Academy Cloud Architecting** *(Apr 2025)* — 60-hour curriculum, scalable cloud architecture
+- 🟨 **AWS Academy Cloud Architecting** *(Apr 2025)* — 60-hour curriculum, scalable cloud architecture design
 
 ---
 
@@ -156,7 +162,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankmishra0411)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shashankmishraa)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shashankmishra0411@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2092849%2067526-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919284967526)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2092849%2067526-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919284967526)
 
 ---
 
