@@ -11,6 +11,8 @@
 > working on:· ARC (CNN answer evaluator) · RAG pipelines
 ```
 
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=adobe&logoColor=white)](https://example.com/resume.pdf)
+
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-534AB7?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django_REST-3B6D11?style=flat&logo=django&logoColor=white)
@@ -27,8 +29,9 @@
 ## 🚀 About Me
 
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026, CGPA: 7.42)*
-- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time currently with 6 month AIML Intern)*
-- 🔬 Building real AI systems: CNN-based image scoring, RAG pipelines, semantic search, LLM integrations
+- 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time, converted from AIML internship)*
+- 🔬 Building production-focused AI systems: CNN scoring, RAG pipelines, semantic search, LLM integrations
+- 📄 **Resume:** [View my resume](https://example.com/resume.pdf)
 - 📍 Vasai, Maharashtra
 
 ---
@@ -39,13 +42,17 @@
 
 **AIML Intern** · Sep 2025 – Mar 2026
 
-> Worked on AI/ML features for an internal HR platform. Stack: Python · TensorFlow · Scikit-learn · Pandas · NumPy · REST APIs
+> Built AI/ML components for an internal HR platform while maintaining NDA-level confidentiality. Focus included model development, data pipelines, and API integration.
+
+**Tech stack:** Python · TensorFlow · Scikit-learn · Pandas · NumPy · PostgreSQL · REST APIs · Docker
 
 ---
 
 **AI Engineer** *(Full-time)* · May 2026 – Present
 
-> Continued building and owning AI modules on the same platform post-conversion. Stack: Python · FastAPI · TensorFlow · Scikit-learn · LangChain · Hugging Face · PostgreSQL · Docker · REST APIs
+> Transitioned to full-time AI engineering and continued ownership of core AI systems, production deployment, and pipeline automation.
+
+**Tech stack:** Python · FastAPI · TensorFlow · Scikit-learn · LangChain · Hugging Face · PostgreSQL · Docker · REST APIs
 
 ---
 
@@ -147,7 +154,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankmishra0411)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shashankmishraa)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shashankmishra0411@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_92849_67526-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919284967526)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91%2092849%2067526-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919284967526)
 
 ---
 
