@@ -11,7 +11,7 @@
 > working on:· ARC (CNN answer evaluator) · RAG pipelines
 ```
 
-[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=adobe&logoColor=white)](./Shashank_Mishra_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=adobe&logoColor=white)](https://raw.githubusercontent.com/shashankmishraa/shashankmishraa/main/Shashank_Mishra_Resume.pdf)
 
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-534AB7?style=flat&logo=fastapi&logoColor=white)
@@ -31,7 +31,7 @@
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026, CGPA: 7.42)*
 - 💼 **AI Engineer @ Blackhole Infiverse** *(Full-time, converted from AIML internship)*
 - 🔬 Building production-focused AI systems: CNN scoring, RAG pipelines, semantic search, LLM integrations
-- 📄 **Resume:** [View my resume](./Shashank_Mishra_Resume.pdf)
+- 📄 **Resume:** [View my resume](https://raw.githubusercontent.com/shashankmishraa/shashankmishraa/main/Shashank_Mishra_Resume.pdf)
 - 📍 Vasai, Maharashtra
 
 ---
