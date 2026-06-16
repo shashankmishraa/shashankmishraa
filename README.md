@@ -10,7 +10,7 @@
 > working on: ARC (CNN answer evaluator) · RAG pipelines
 ```
 
-<a href="https://drive.google.com/file/d/1GcXfgP0QQyTU9D6i3xabpAC5UgVjCjcd/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+<a href="https://drive.google.com/file/d/1MWu0-sYzxDqy66FKzm9hV0H3egAnyHtL/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-4d89f9?style=flat&logo=googledrive&logoColor=white" alt="Resume">
 </a>
 
@@ -34,7 +34,7 @@
 - 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026 · CGPA: 7.42)*
 - 💼 **AI Engineer @ Blackhole Infiverse** — Full-time, converted from AIML internship
 - 🔬 Building production-focused AI systems: CNN scoring, RAG pipelines, semantic search, LLM integrations
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1GcXfgP0QQyTU9D6i3xabpAC5UgVjCjcd/view?usp=sharing)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1MWu0-sYzxDqy66FKzm9hV0H3egAnyHtL/view?usp=sharing)
 - 📍 Vasai, Maharashtra
 
 ---
