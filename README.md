@@ -2,7 +2,7 @@
 
 # Hey, I'm Shashank Mishra 👋
 
-**AI Engineer @ Blackhole Infiverse · B.E. AI/ML Graduate · Building production AI systems**
+**Junior AI Engineer @ Blackhole Infiverse · B.E. AI/ML Graduate · Building production AI systems**
 
 🎓 *Graduated May 2026 — Universal College of Engineering, Vasai*
 
@@ -56,7 +56,7 @@
 
 **Junior AI Engineer** *(Full-time)* · May 2026 – Present
 
-> Promoted to full-time AI Engineer. Owns core AI systems, production deployment, and ML pipeline automation. *(NDA applies — details withheld)*
+> Promoted to full-time Junior AI Engineer. Owns core AI systems, production deployment, and ML pipeline automation. *(NDA applies — details withheld)*
 
 **Stack:** `Python` `FastAPI` `TensorFlow` `Scikit-learn` `LangChain` `Hugging Face` `PostgreSQL` `Docker` `REST APIs`
 
