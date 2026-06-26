@@ -31,8 +31,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026 · CGPA: 7.42)*
-- 💼 **AI Engineer @ Blackhole Infiverse** — Full-time, converted from AIML internship
+- 🎓 **B.E. in Artificial Intelligence & Machine Learning** — Universal College of Engineering, Vasai *(Graduated May 2026 · CGPA: 7.69)*
+- 💼 **Junior AI Engineer @ Blackhole Infiverse** — Full-time, converted from AIML internship
 - 🔬 Building production-focused AI systems: CNN scoring, RAG pipelines, semantic search, LLM integrations
 - 📄 **Resume:** [View here](https://drive.google.com/file/d/1THhutHuBNAsbVurF78GlAI1HjDwWHcId/view?usp=sharing)
 - 📍 Vasai, Maharashtra
@@ -46,7 +46,7 @@
 | Role | Period |
 |---|---|
 | **AIML Intern** | Sep 2025 – Mar 2026 |
-| **AI Engineer** *(Full-time)* | May 2026 – Present |
+| **Junior AI Engineer** *(Full-time)* | May 2026 – Present |
 
 **AIML Intern** · Sep 2025 – Mar 2026
 
@@ -54,7 +54,7 @@
 
 **Stack:** `Python` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `PostgreSQL` `Docker` `REST APIs`
 
-**AI Engineer** *(Full-time)* · May 2026 – Present
+**Junior AI Engineer** *(Full-time)* · May 2026 – Present
 
 > Promoted to full-time AI Engineer. Owns core AI systems, production deployment, and ML pipeline automation. *(NDA applies — details withheld)*
 
