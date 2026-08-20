@@ -190,9 +190,11 @@
 
 <div align="center">
 
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankmishraa\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+<img src="./profile/stats.svg" alt="Shashank's GitHub Stats">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmishraa\&layout=compact\&theme=tokyonight\&hide_border=true)
+<br/><br/>
+
+<img src="./profile/top-langs.svg" alt="Top Languages">
 
 </div>
 
